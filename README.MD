@@ -19,13 +19,13 @@ To run this bot, you will need:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/your-repo-name.git
+    git clone https://github.com/derssen/AI-Telegram-Chatbot.git
     cd your-repo-name
     ```
 
 2. Install the required Python libraries:
     ```bash
-    pip install aiogram cohere
+    pip install -r requirements.txt
     ```
 
 3. Create a `.env` file (optional) to store your API keys:
